@@ -1,2 +1,2 @@
-# Anomaly-Detection-FGSS-
+# Anomaly-Detection-FGSS
 This was part of a capstone project for a major tech company.  The dataset has not been included for security purposes, but the notebook shows how to use a recurrent neural network (RNN) to model time series data.  With the modeled data, the fast generalized subset scan algorithm (FGSS, see http://www.jmlr.org/papers/volume14/mcfowland13a/mcfowland13a.pdf) is deployed to find and flag anomalous records and attributes.
